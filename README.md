@@ -22,15 +22,6 @@ The dataset used is the [Hotel Booking Demand Dataset](https://www.kaggle.com/da
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Sowjanya N | Data Cleaning & Feature Engineering |
-| Priyanka More | EDA & Statistical Analysis |
-| Shruthi G Bhonsle | Predictive Modeling & Dashboard |
-| Mohit Gupta | Data Cleaning & Feature Engineering |
-
 ---
 
 ## 🛠️ Tech Stack
